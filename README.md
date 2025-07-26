@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE | 💻 Full-Stack Developer | 🤖 ML Enthusiast | 🚀 Competitive Programmer
+  🎓 B.Tech CSE-Data Science | 🤖 ML Enthusiast | 🚀 Competitive Programmer
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science Engineering at **GHR College of Engineering, Pune**
+- 🎓 B.Tech in CSE-Data Science **G.H.Raisoni College of Engineering, Pune**
 - 💻 Full-stack developer with **ML integration expertise**
 - 🏆 2+ years of competitive programming | CodeForces Specialist (Max Rating: 1420)
 - 📈 1000+ problems solved on **LeetCode & GeeksforGeeks**
