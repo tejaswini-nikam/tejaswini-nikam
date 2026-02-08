@@ -56,7 +56,6 @@ Actively seeking internships and collaborative opportunities.
 
 | Project                  | Description                                                          | Tech Stack                        |
 |--------------------------|----------------------------------------------------------------------|-----------------------------------|
-| **SwiftCare**            | Hospital queue management system reducing wait times by 40%          | PHP, MySQL, JavaScript            |
 | **Student Future Predictor** | ML-powered career guidance system with 85% accuracy               | Python, Scikit-learn, Flask       |
 | **Dropper Analysis**     | Data-driven academic improvement insights platform                   | Pandas, Matplotlib, Jupyter       |
 
