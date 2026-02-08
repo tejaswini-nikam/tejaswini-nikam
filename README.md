@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE-Data Science | 🤖 ML Enthusiast | 🚀 Competitive Programmer
+  🎓 B.Tech CSE-Data Science | 🤖 ML Enthusiast 
 </p>
 
 <p align="center">
@@ -19,30 +19,24 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in CSE-Data Science **G.H.Raisoni College of Engineering, Pune**
-- 💻 Full-stack developer with **ML integration expertise**
-- 🏆 2+ years of competitive programming | CodeForces Specialist (Max Rating: 1420)
-- 📈 1000+ problems solved on **LeetCode & GeeksforGeeks**
-- 🔥 100+ day coding streak on LeetCode
-- 🏅 Winner in Paper & Project Presentation on **"AI in Healthcare"**, showcasing innovative solutions for patient care
-- 🌱 Currently learning: **Advanced System Design** & **Generative AI**
-- ⚡ Fun fact: I once optimized an algorithm from `O(n²)` to `O(n log n)`!
+Aspiring Data Scientist with a strong interest in Machine Learning and data-driven problem solving.
+
+Currently building skills in Python, Data Analysis, Statistics, and ML through hands-on projects and continuous learning.
+
+Actively seeking internships and collaborative opportunities.
+
+📫 Reach me: tejaswininikam19@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/tejswini-nikam
 
 ---
 
 ## 🚀 Technical Skills
 
 ### Programming Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-### Web Development  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Databases & Tools  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
