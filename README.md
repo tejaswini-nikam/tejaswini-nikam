@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm NIKAM TEJASWINI NITIN</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 <p align="center">
