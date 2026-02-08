@@ -26,7 +26,8 @@ Currently building skills in Python, Data Analysis, Statistics, and ML through h
 Actively seeking internships and collaborative opportunities.
 
 📫 Reach me: tejaswininikam19@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/tejswini-nikam
+
+🔗 LinkedIn: [https://www.linkedin.com/in/tejswini-nikam](https://www.linkedin.com/in/tejswini-nikam-0033b5345/)
 
 ---
 
