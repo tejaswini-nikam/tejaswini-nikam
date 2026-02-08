@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello! I'm NIKAM TEJASWINI NITIN</h1>
+<h1 align="center">👋 Hi! I'm NIKAM TEJaSWINI NITIN</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE-Data Science | 🤖 ML Enthusiast 
+🎓 B.Tech CSE (Data Science) | 🤖 Aspiring Data Scientist | ML Enthusiast
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me.
 
 Aspiring Data Scientist with a strong interest in Machine Learning and data-driven problem solving.
 
@@ -26,12 +26,17 @@ Currently building skills in Python, Data Analysis, Statistics, and ML through h
 Actively seeking internships and collaborative opportunities.
 
 📫 Reach me: tejaswininikam19@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/tejswini-nikam
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Technical Skills.
+- Python  
+- Data Analysis  
+- Machine Learning  
+- Pandas, NumPy  
+- Statistics  
+
 
 ### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
