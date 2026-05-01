@@ -46,7 +46,7 @@ Actively seeking internships and collaborative opportunities.
 ### Tools & Technologies
 - MySQL  
 - Git  
-- Docker  
+- Github  
 
 ---
 
@@ -55,7 +55,7 @@ Actively seeking internships and collaborative opportunities.
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
 | **Student Future Predictor** | ML-powered career guidance system (85% accuracy) | Python, Scikit-learn, Flask |
-| **Dropper Analysis** | Academic performance insights platform | Pandas, Matplotlib, Jupyter |
+
 
 ---
 
