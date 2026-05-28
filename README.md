@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tejaswini Nikam.</h1>
+<h1 align="center">👋 Hi, I'm Tejswini Nikam.</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
