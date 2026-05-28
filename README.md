@@ -59,7 +59,7 @@ Actively seeking internships and collaborative opportunities in web development.
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|-----------|-----------|
-| **Food Delivery App (Tomato)** | Full-stack food ordering platform with user & admin panel, JWT auth, and Stripe payments | React, Node.js, Express, MongoDB | [Live](https://github.com/tejaswini-nikam/Food_Delivery_Web) |
+| **Food Delivery App (Tomato)** | Full-stack food ordering platform with user & admin panel, JWT auth, and Stripe payments | React, Node.js, Express, MongoDB | [[Github](https://github.com/tejaswini-nikam/Food_Delivery_Web) |
 | **VideoMeet** | Real-time video conferencing app with room creation, live video/audio & chat | React, Node.js, WebRTC, Socket.io | [Live](https://video-conferencing-web-application-1.onrender.com) |
 | **Student Future Predictor** | ML-powered career guidance system with 85% accuracy | Python, Scikit-learn, Flask | [GitHub](https://github.com/tejaswini-nikam/Career_Path_Predictor_For_Students) |
 
