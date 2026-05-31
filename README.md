@@ -70,18 +70,6 @@ Actively seeking internships and collaborative opportunities in web development.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswini-nikam&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=tejaswini-nikam&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini-nikam&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejaswini-nikam&label=Profile+Views&color=blueviolet&style=flat"/>
-</p>
 
 ---
 
